@@ -61,7 +61,7 @@ setup(
     url='https://beets.io/',
     license='MIT',
     platforms='ALL',
-    long_description=_read('README.rst'),
+    long_description=_read('README.md'),
     test_suite='test.testall.suite',
     zip_safe=False,
     include_package_data=True,  # Install plugin resources.
